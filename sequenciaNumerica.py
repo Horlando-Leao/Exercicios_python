@@ -1,5 +1,5 @@
 
-#validar se a entrada é uma sequência númerica simples
+# função: verifica se a entrada é uma sequência númerica simples
 def ExisteSequenciaNumerica(sequencia):
 #entrada = Array numeros #saída = Boleano
     quantidade_termos = len(sequencia) #quantidade de elementos
